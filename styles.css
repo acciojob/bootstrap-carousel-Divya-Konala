@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.carousel-item>img{
+    width:80%;
+    height: 80vh;
+}
+.carousel-control-prev-icon{
+    color: #fff;
+}
+.carousel-control-next-icon{
+    color: #fff;
+}
